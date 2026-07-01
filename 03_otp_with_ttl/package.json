@@ -1,5 +1,5 @@
 {
-  "name": "02_banner",
+  "name": "03_otp_with_ttl",
   "version": "1.0.0",
   "main": "index.js",
   "type":"module",
